@@ -44,7 +44,7 @@ export const Header = ({ allProducts, setAllProducts, total, countProducts, setC
 
     return (
         <header>
-            <h1>VirtualShop</h1>
+            <h1></h1>
             <div className="container-icon">
                 <div className='container-cart-icon' onClick={() => setActive(!active)}>
                     <img className='icon-cart' src='https://cdn.pixabay.com/photo/2013/07/12/14/53/cart-148964_1280.png' alt="Carrito"></img>
