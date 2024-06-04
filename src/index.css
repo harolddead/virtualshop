@@ -17,6 +17,17 @@ body {
   background-size: cover;
 }
 
+/* Mobile Responsive */
+/* Estilos para pantallas pequeñas (móviles) */
+@media only screen and (max-width: 600px) {
+  /* Agrega estilos específicos para dispositivos móviles aquí */
+}
+
+/* Estilos para pantallas medianas y grandes */
+@media only screen and (min-width: 601px) {
+  /* Agrega estilos para pantallas más grandes aquí */
+}
+
 /*carro de compras*/
 
 .icon-cart {
